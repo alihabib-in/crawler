@@ -1,0 +1,161 @@
+[
+  {
+    "source_url": "https://www.mashreq.com/en/uae/neo/cards/credit-cards/solitaire-credit-card/",
+    "scraped_at_utc": "2026-06-03T13:05:31.392248+00:00",
+    "card_name": "Solitaire Credit Card",
+    "issuer_domain": "www.mashreq.com",
+    "screenshots": {
+      "full_page": "g:\\Projects\\Crawl4AI\\Crawler\\screenshots\\en_uae_neo_cards_credit-cards_solitaire-credit-card_full.png",
+      "section_focus": []
+    },
+    "fields": {
+      "annual_fee": "AED 1,500; AED 600",
+      "apr": "s 3.85% p.m PayProtect insurance 0.99% of your monthly statement balance (+ 5% VAT)",
+      "minimum_income": null,
+      "joining_fee": null,
+      "welcome_bonus": "AED 2,500; AED 2,500"
+    },
+    "promotions": {
+      "welcome_offer": [
+        {
+          "summary": "AED 2,500 Welcome Bonus For new credit card customers: AED 2,500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance",
+          "numeric_details": [
+            "AED 2,500",
+            "AED 9,000",
+            "2 months",
+            "AED 500"
+          ]
+        }
+      ],
+      "welcome_bonus_options": [
+        {
+          "audience": "new",
+          "summary": "AED 2,500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance",
+          "numeric_details": [
+            "AED 2,500",
+            "AED 9,000",
+            "2 months"
+          ]
+        },
+        {
+          "audience": "existing",
+          "summary": "AED 500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance",
+          "numeric_details": [
+            "AED 500",
+            "AED 9,000",
+            "2 months"
+          ]
+        }
+      ],
+      "rewards_earn_rate": [
+        {
+          "summary": "Maximize Mashreq Vantage points on travel and on everyday spends Earn Mashreq Vantage reward points for all spends and redeem them instantly via Mashreq Mobile App or at a partner merchant f",
+          "numeric_details": [
+            ",",
+            "6",
+            "4",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "summary": "Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi",
+          "numeric_details": [
+            "1000"
+          ]
+        },
+        {
+          "summary": "Offers Mashreq Vantage points Earn rewards on spends and redeem them instantly Travel Easy Discover a host of travel offers which offer peace of mind and great savings",
+          "numeric_details": []
+        }
+      ],
+      "lounge_benefits": [
+        {
+          "summary": "Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi",
+          "numeric_details": [
+            "1000"
+          ]
+        },
+        {
+          "summary": "Airport lounge access across the world Relax in 1000+ airport lounges by presenting your Card at the reception",
+          "numeric_details": [
+            "1000"
+          ]
+        }
+      ],
+      "travel_perks": [
+        {
+          "summary": "Maximize Mashreq Vantage points on travel and on everyday spends Earn Mashreq Vantage reward points for all spends and redeem them instantly via Mashreq Mobile App or at a partner merchant f",
+          "numeric_details": [
+            ",",
+            "6",
+            "4",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "summary": "Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi",
+          "numeric_details": [
+            "1000"
+          ]
+        },
+        {
+          "summary": "Offers Mashreq Vantage points Earn rewards on spends and redeem them instantly Travel Easy Discover a host of travel offers which offer peace of mind and great savings",
+          "numeric_details": []
+        },
+        {
+          "summary": "Airport lounge access across the world Relax in 1000+ airport lounges by presenting your Card at the reception",
+          "numeric_details": [
+            "1000"
+          ]
+        }
+      ],
+      "numeric_highlights": [
+        "Maximize Mashreq Vantage points on travel and on everyday spends Earn Mashreq Vantage reward points for all spends and redeem them instantly via Mashreq Mobile App or at a partner merchant for airmiles, gift cards, cashb",
+        "Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi",
+        "AED 2,500 Welcome Bonus For new credit card customers: AED 2,500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance",
+        "No Hidden Fees Annual Fee Primary: AED 1,500 +5% VAT Supplementary: AED 600 +5% VAT Interest free period Up to 57 days Interest rates 3",
+        "Airport lounge access across the world Relax in 1000+ airport lounges by presenting your Card at the reception",
+        "Enjoy 50% discount on movie tickets with no minimum spend - VOX, Reel, and Novo Cinemas: Get 8 movie tickets each month at 50% off"
+      ]
+    },
+    "conditions": [
+      {
+        "text": "No Hidden Fees Annual Fee Primary: AED 1,500 +5% VAT Supplementary: AED 600 +5% VAT Interest free period Up to 57 days Interest rates 3",
+        "numeric_details": [
+          "AED 1,500",
+          "5%",
+          "AED 600",
+          "57 days",
+          "3.85%",
+          "0.99%"
+        ],
+        "source": "page_focus"
+      },
+      {
+        "text": "Transparency General Terms and Conditions Key Facts Statement",
+        "numeric_details": [],
+        "source": "page_focus"
+      }
+    ],
+    "documents": [],
+    "compliance_documents": [],
+    "related_pages_scraped": [
+      {
+        "url": "https://www.mashreq.com/en/uae/neo/cards/credit-cards/solitaire-credit-card/",
+        "title": "Solitaire Credit Card | Mashreq UAE"
+      },
+      {
+        "url": "https://digital.mashreqbank.com/creditcards/ntb/otp-send?utm_pname=solitaire&utm_pcode=SPC92&utm_source=Website&utm_medium=SolitairePageHeader",
+        "title": "Credit card - NTB"
+      }
+    ],
+    "raw": {
+      "page_title": "Solitaire Credit Card | Mashreq UAE",
+      "page_h1": "Unlimited visits to Fitness First",
+      "offer_focused_text": "Maximize Mashreq Vantage points on travel and on everyday spends: Maximize Mashreq Vantage points on travel and on everyday spends Earn Mashreq Vantage reward points for all spends and redeem them instantly via Mashreq Mobile App or at a partner merchant for airmiles, gift cards, cashback and more. Earn 6 points per AED on international purchases, 4 points per AED on airlines, hotels and other travel spends, 2 points per AED on local spends and 1 point per AED on other local spends. To know more, mashreq.com/vantage. Note: Mashreq Vantage points cannot be earned on bill payments via Mashreq Online Banking or App.\nEarn Mashreq Vantage points on all spends: Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi\nOffers: Offers Mashreq Vantage points Earn rewards on spends and redeem them instantly Travel Easy Discover a host of travel offers which offer peace of mind and great savings. Visa offers Exclusive deals and offers from Visa. Easy Payment Plan Enjoy shopping and the freedom to buy now and pay later with Easy Payment Plan\nAED 2,500 Welcome Bonus: AED 2,500 Welcome Bonus For new credit card customers: AED 2,500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance. For existing credit card customers: AED 500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance. For T&Cs please click here.\nNo Hidden Fees: No Hidden Fees Annual Fee Primary: AED 1,500 +5% VAT Supplementary: AED 600 +5% VAT Interest free period Up to 57 days Interest rates 3.85% p.m PayProtect insurance 0.99% of your monthly statement balance (+ 5% VAT)\nTransparency: Transparency General Terms and Conditions Key Facts Statement\nAirport lounge access across the world: Airport lounge access across the world Relax in 1000+ airport lounges by presenting your Card at the reception. Both Primary and Supplementary Solitaire Cardholders can visit along with a complimentary guest. Get details.\nEnjoy 50% discount on movie tickets with no minimum spend: Enjoy 50% discount on movie tickets with no minimum spend - VOX, Reel, and Novo Cinemas: Get 8 movie tickets each month at 50% off. Click here for T&Cs. - Cinepolis Cinemas: Get 8 movie tickets each month at 50% off until 31 December 2026. Click here for T&Cs.\nSolitaire Credit Card | Mashreq UAE: Skip to main content Enable accessibility for low vision Open the accessibility menu We use cookies to provide you with a safe and personalized browsing experience. You can change your cookies preferences at any time. Learn more Accept Cookie preferences NEO EMIRATI GOLD PRIVATE NEO BIZ BUSINESS CORPORATE INTERNATIONAL MASHREQ AL ISLAMI عربى UAE About Us ATM & Branches Customer Care Inquiry Feedback Complaint Accounts Cards Loans Transfers Investments Insurance Rewards NEO PLUSNEW Sign In Become A Customer Solitaire Credit Card Unlimited visits to Fitness First and all free for you Apply Now Earn Mashreq Vantage points on all spends More rewards when you travel Complimentary airport lounge access to 1000+ lounges Complimentary valet parking in Dubai & Abu Dhabi AED 2,500 Welcome Bonus For new credit card customers: AED 2,500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance. For existing credit card customers: AED 500 Welcome Bonus on the card when you spend AED 9,000 or more in the first 2 months post card issuance. For T&Cs please click here. Maximize Mashreq Vantage points on travel and on everyday spends Earn Mashreq Vantage reward points for all spends and redeem them instantly via Mashreq Mobile App or at a partner merchant for airmiles, gift cards, cashback and more. Earn 6 points per AED on international purchases, 4 points per AED on airlines, hotels and other travel spends, 2 points per AED on local spends and 1 point per AED on other local spends. To know more, mashreq.com/vantage. Note: Mashreq Vantage points cannot be earned on bill payments via Mashreq Online Banking or App. Airport lounge access across the world Relax in 1000+ airport lounges by presenting your Card at the reception. Both Primary and Supplementary Solitaire Cardholders can visit along with a complimentary guest. Get details. Let us valet park your car Enjoy 2 free valet parking per billing cycle at premium locations within Dubai and Abu Dhabi. Simply spend a minimum of AED 10,000 in your last billing cycle to avail. T&C’s. Complimentary visits to Fitness First Keeping fit and healthy is easy with Mashreq Solitaire Credit Card. Enjoy unlimited, complimentary visits to Fitness First whenever you make a minimum spend of AED 10,000 in your previous billing cycle. T&Cs. List of outlets Complimentary airport transfers to and from Dubai International Airport and Abu Dhabi Airport. Enjoy 6 complimentary airport transfers every calendar year on your card. Simply spend AED 10,000 or more in your last billing cycle. To find out how to book your transfer, click here. Tee off at premium golf clubs Enjoy complimentary games of golf per billing cycle at the UAE's exclusive Golf Clubs at Arabian Ranches Golf Club, Abu Dhabi Golf Club, The Track, Meydan Golf, The Els Club and Jebel Ali Golf Club. Maximum of 2 weekend games can be booked per billing cycle. Simply spend AED 10,000 or more in your last billing cycle to avail this benefit. T&C’s Make a booking Are you ready to apply? Apply Now Marhaba Silver Meet & Greet Get 6 complimentary Marhaba Meet & Greets per year. Simply spend a minimum of AED 10,000 in your last billing cycle to avail.T&C’s. Travel Insurance Simply purchase travel tickets using your Solitaire Credit Card and enjoy Multi Trip Insurance that covers you for local and international trips of up to 90 days. Click here to get your complimentary travel insurance certificate. Car Assistance Services Enjoy 1 complimentary vehicle registration (renewal) pick up and drop off in a year and 2 complimentary vehicle servicing pick up or drop offs in a year. Simply spend AED 10,000 or more to avail. T&C's. For booking the service, please call +971 4 7047123 Enjoy 50% discount on movie tickets with no minimum spend - VOX, Reel, and Novo Cinemas: Get 8 movie tickets each month at 50% off. Click here for T&Cs. - Cinepolis Cinemas: Get 8 movie tickets each month at 50% off until 31 December 2026. Click here for T&Cs. Offers Mashreq Vantage points Earn rewards on spends and redeem them instantly Travel Easy Discover a host of travel offers which offer peace of mind and great savings. Visa offers Exclusive deals and offers from Visa. Easy Payment Plan Enjoy shopping and the freedom to buy now and pay later with Easy Payment Plan No Hidden Fees Annual Fee Primary: AED 1,500 +5% VAT Supplementary: AED 600 +5% VAT Interest free period Up to 57 days Interest rates 3.85% p.m PayProtect insurance 0.99% of your monthly statement balance (+ 5% VAT) Transparency General Terms and Conditions Key Facts Statement Still got questions How do I earn and redeem rewards on my Solitaire Credit Card? Every transaction made with your Mashreq Solitaire Credit Card, international or local, you will earn Mashreq Vantage reward points. You can redeem them instantly via Mashreq Mobile App or at a partner merchant. To know more visit mashreq.com/vantage. Was this useful? Yes No How do I get complimentary access to Fitness First? Also, is the benefit applicable for Supplementary Cardholders as well? You need to make total purchases of AED 10,000 or more on your Solitaire Card in the previous month’s statement to avail unlimited complimentary access to Fitness First in the following month. Both primary and supplementary cardholders are eligible for this benefit. Purchases made on the primary card as well as the supplementary cards are included for calculation of the AED 10,000 spend threshold. Please note that AED 5 will be charged on your Mashreq Solitaire credit card for every complimentary visit to a Fitness First outlet, which will be automatically reversed within 60 days. If the minimum spend requirement is not met, a fee of AED 50 will be applicable for every visit to Fitness First. Was this useful? Yes No How many complimentary airport transfer services can I get? You are entitled to avail 6 complimentary Limousine Services every calendar year on your Solitaire Card, with a maximum of one service in a month. Any additional services used over and above the monthly or yearly allowance will be billed to your Card. You need to make total purchases of AED 10,000 or more on your Solitaire Card in the previous month’s statement to avail this service in the following month. If the minimum spend requirement is not met, the usage fee for this service will be billed to your Solitaire Card. Usage fee to vary as per the pick up or drop location. Was this useful? Yes No How do I book an airport transfer? You need to call the Mashreq call center at least 4 business days in advance from the date and time of pick up/drop off. The Call Centre number is listed on the back of your credit card. The bank’s Call Center Representative will ask for your travel details to share with the service provider. Upon confirmation, the service provider will send an email confirmation to your registered e-mail ID, and also share details of your chauffeur over SMS 12 to 24 hours before the pick-up time. You will then need to coordinate with the chauffeur to receive the service. Was this useful? Yes No How many complimentary lounge access visits can I receive in a year? Is there a spend criteria to get the benefit? You can get 12 complimentary airport lounge visits in a calendar year subject to fulfillment of the below spend criteria: 1 international transaction >1 USD every calendar year; it may take up to 15 days for the information of meeting eligibility criteria to be visible on the Lounge Key system. If the card is replaced, then > 1 USD transaction is mandatory on the replaced card to become eligible for the lounge benefit within the calendar year If you do not meet the above spend criteria, then you can receive 2 complimentary airport lounge visits in a calendar year (to be used twice by the Cardholder or once by the Cardholder and a Guest). Visits are applicable for the Cardholder or the Cardholder and guest (up to one complimentary guest per visit). Was this useful? Yes No How many complimentary valet services can I receive in a month? Which all locations are covered under this service? .You are entitled to two complimentary valet parking uses every monthly billing cycle on your Solitaire Card, including the usage on supplementary cards, if any. Any additional services used over and above the monthly or yearly allowance will be billed to your Card. You need to make total purchases of AED 10,000 or more on your Solitaire Card in the previous month’s statement to avail this service in the following month. If the minimum spend requirement is not met, the usage fee for this service will be billed to your Solitaire Card. Usage charges will vary as per the location. Please visit here for charges applicable for each location. Locations covered within Dubai - Dubai mall, Ibn Battuta mall, Mall of the Emirates, Dubai International Airport. Locations covered within Abu Dhabi- Yas Water World, Ferrari World, Marina Mall, Yas Mall. Was this useful? Yes No How many days/hours in advance do I need to book for a green fee slot or a golf lesson? Is there any cancellation fee in case of a no show? You need to book a golf session or a golf game a minimum of 15 days and a maximum of 21 days in advance (excluding the date of play and the date of booking). You will normally be contacted within 2-3 working days, as per the preferred mode of contact selected by you at the time of booking. Please note that you will be required to carry your Solitaire Credit card so that the Golf Club can do a transaction of AED 1 to authenticate the Solitaire Credit Card. Cancellations will be accepted only if done 4 days prior to the booked time of play. In the event of a no show, the booking will be counted under your complimentary number of rounds for the month. Was this useful? Yes No Will the golf equipment and food & beverage expenses be taken care of by Mashreq? All other costs and charges such as food & beverage expenses, consumables, rental of golfing equipment, golf-cart (bug\nCredit card - NTB: Cancel",
+      "related_pdf_text": ""
+    }
+  }
+]
